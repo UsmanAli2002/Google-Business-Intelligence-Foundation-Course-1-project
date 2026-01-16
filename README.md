@@ -14,6 +14,7 @@ For this project, I created all the essential documents needed for the Google Fi
 [Google_Fiber_Project_req_doc.docx](https://github.com/user-attachments/files/24679833/Google_Fiber_Project_req_doc.docx)
 
 3. Project Strategy Document
+   
 [Google_fiber_Strategy_doc.docx](https://github.com/user-attachments/files/24679840/Google_fiber_Strategy_doc.docx)
 
 
